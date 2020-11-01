@@ -1,3 +1,3 @@
-[！[willianrod的wakatime统计信息]（https://github-readme-stats.vercel.app/api/wakatime？username =hjp521）]（https://github.com/anuraghazra/github-readme-stats）
+https://camo.githubusercontent.com/6d6adb9600a0a9fedd6cff58aca16a7d416cf3d2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c
 # hjp521
 
