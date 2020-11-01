@@ -1,3 +1,3 @@
-！[Anurag的github统计信息]（https://github-readme-stats.vercel.app/api？username = hjp521＆theme = dark＆show_icons = true）
+！[Anurag的github统计信息]（https://github-readme-stats.vercel.app/api？username = anuraghazra＆show_icons = true＆theme = radical）
 
 
