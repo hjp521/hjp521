@@ -1,4 +1,3 @@
-![Bat.bat's github stats](https://github-readme-stats.vercel.app/api?username=hjp521&count_private=true)
-[！[Anurag的github统计信息]（https://github-readme-stats.vercel.app/api？username =hjp521）]（https://github.com/anuraghazra/github-readme-stats）
+[！[willianrod的wakatime统计信息]（https://github-readme-stats.vercel.app/api/wakatime？username =hjp521）]（https://github.com/anuraghazra/github-readme-stats）
 # hjp521
 
