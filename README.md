@@ -1,3 +1,2 @@
-！[Anurag的github统计信息]（https://github-readme-stats.vercel.app/api？username = anuraghazra＆show_icons = true＆theme = radical）
-
+[！[自述文件卡]（https://github-readme-stats.vercel.app/api/pin/？username = anuraghazra＆repo = github-readme-stats）]（https://github.com/anuraghazra/github-自述数据）
 
